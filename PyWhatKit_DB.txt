@@ -1,0 +1,30 @@
+Date: 12/5/2023
+Time: 7:47
+Phone Number: +5516997590582
+Message: Testando o chatbot, Quero caféééé!!!
+--------------------
+Date: 12/5/2023
+Time: 7:49
+Phone Number: +5516997590582
+Message: Testando o chatbot, Quero caféééé!!!
+--------------------
+Date: 12/5/2023
+Time: 7:52
+Phone Number: +5516997995211
+Message: Testando o chatbot, Quero cafe
+--------------------
+Date: 12/5/2023
+Time: 7:54
+Phone Number: +5516997995211
+Message: Testando o chatbot, Quero cafe
+--------------------
+Date: 12/5/2023
+Time: 8:44
+Phone Number: +5516997995211
+Message: Testando o chatbot, Quero cafe
+--------------------
+Date: 12/5/2023
+Time: 8:47
+Phone Number: +5516997590582
+Message: Testando o chatbot, Quero cafe
+--------------------
